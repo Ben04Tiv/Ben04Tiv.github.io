@@ -20,5 +20,6 @@ img.resize {
   max-height: 50%;
 }
 ul {
-  color: red
+  color: red;
+  align: center;
 }
