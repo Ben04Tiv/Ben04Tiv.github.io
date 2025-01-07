@@ -1,6 +1,7 @@
 body {
   background-color: Black;
-  align: center;
+  text-align: center;
+  img-align: center
 }
 h1 {
   color: blue;
