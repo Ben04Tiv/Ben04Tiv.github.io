@@ -30,3 +30,8 @@ h4 {
 h5 {
   color: pink;
 }
+ol{
+  color: turquoise;
+  align: center;
+  list-style-position: inside;
+}
