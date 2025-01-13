@@ -1,7 +1,14 @@
+head {
+  Background-color: Red;
+  text-align: center;
+}
+title {
+  color: Black;
+}
 body {
   background-color: Black;
   text-align: center;
-  img-align: center
+  img-align: center;
 }
 h1 {
   color: blue;
