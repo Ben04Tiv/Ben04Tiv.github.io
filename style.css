@@ -1,7 +1,8 @@
-head {
+header {
   Background-color: Red;
   text-align: center;
   padding: 60px;
+  position: fixed;
 }
 title {
   color: Black;
