@@ -3,6 +3,7 @@ header {
   text-align: center;
   padding: 60px;
   position: fixed;
+  margin-top: 50px
 }
 title {
   color: Black;
@@ -11,6 +12,9 @@ body {
   background-color: Black;
   text-align: center;
   img-align: center;
+}
+div h1 {
+  color: Black;
 }
 h1 {
   color: blue;
